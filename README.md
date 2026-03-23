@@ -3,6 +3,9 @@
 A foundational on-chain vehicle title registry built with Anchor on Solana.  
 Every vehicle is a PDA derived from its VIN — immutable, verifiable, transferable.
 
+This contract is the basis for the contract:
+https://github.com/MemoLabPRO/sol-car-p2p-ontario
+
 ## Problem
 
 In peer-to-peer vehicle sales, there is no trustless way to verify ownership before payment.  
